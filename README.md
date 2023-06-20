@@ -3,6 +3,9 @@ Almabetter Verified Project
 
 ![image](https://github.com/Shubham-droid24/Google-Merchandise-Store-Project/assets/72461022/8b4fa141-e689-4498-86f9-7e2a84d1a65d)
 
+I have created interactive dashboards on Google Merchandise Store website using Google Analytics on Looker Studio . It is an E-Commerce site that sells Google-branded
+merchandise. I have made 3 dashboards: Google, Cohort and Funnel Analytics.
+
 ## Why website analytics is important ?
 
 1. Get to Know Your Visitors Well and Enhance User Experience
